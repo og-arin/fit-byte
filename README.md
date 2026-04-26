@@ -50,8 +50,8 @@ FitByte takes your personal details — weight, height, goal, cuisine, daily sch
 ## Run locally
 
 ```bash
-git clone https://github.com/og-arin/fitbyte
-cd fitbyte
+git clone https://github.com/og-arin/fit-byte
+cd fit-byte
 pip install gradio groq
 export GROQ_API_KEY=your_key_here
 python app.py
