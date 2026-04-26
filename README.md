@@ -44,14 +44,13 @@ FitByte takes your personal details — weight, height, goal, cuisine, daily sch
 | UI | Gradio `gr.Blocks` |
 | Deployment | Hugging Face Spaces |
 | Dev Environment | Google Colab |
-| Prompt Engineering | Claude (Anthropic) |
 
 ---
 
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fitbyte
+git clone https://github.com/og-arin/fitbyte
 cd fitbyte
 pip install gradio groq
 export GROQ_API_KEY=your_key_here
